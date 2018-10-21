@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ateliê Carmem Machado</string>
+
+    <string-array name="lista">
+        <item>Enxoval de bebê</item>
+        <item>Painel</item>
+        <item>Patchwork</item>
+    </string-array>
+
+    <string-array name="fotos">
+        <item>@drawable/bebe</item>
+    </string-array>
+
+</resources>
